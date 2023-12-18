@@ -1,0 +1,9 @@
+:root {
+    --color-font: #333;
+    --color-background: #333333;
+}
+
+.iframe {
+    width: 100%;
+    height: calc(100vh - 50px);
+}
